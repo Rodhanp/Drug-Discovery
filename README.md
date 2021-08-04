@@ -1,1 +1,2 @@
-Bioinformatic Project for developing Pipelines for Drug Discovery using Google Colab
+Bioinformatic Project for developing Pipelines for Drug Discovery.
+Acknowledgement: Data Professor
